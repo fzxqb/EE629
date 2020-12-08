@@ -1,4 +1,4 @@
-# Final Project
+# Face Recognition
 
 Equipment required for the project
 Raspberry Pi 
