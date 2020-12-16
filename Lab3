@@ -1,0 +1,18 @@
+On a Raspberry Pi, install packages, update the IoT repository, and run python programs
+pi@raspberrypi ~ $ sudo pip3 install -U jdcal astral geopy
+pi@raspberrypi ~ $ cd iot
+pi@raspberrypi ~/iot $ git pull
+pi@raspberrypi ~/iot $ cd *3
+pi@raspberrypi ~/iot/lesson3 $ python3 julian.py
+pi@raspberrypi ~/iot/lesson3 $ python3 date_example.py
+pi@raspberrypi ~/iot/lesson3 $ python3 datetime_example.py
+pi@raspberrypi ~/iot/lesson3 $ python3 time_example.py
+pi@raspberrypi ~/iot/lesson3 $ python3 sun.py 'New York'
+pi@raspberrypi ~/iot/lesson3 $ python3 moon.py
+pi@raspberrypi ~/iot/lesson3 $ python3 coordinates.py 'SC Williams Library'
+pi@raspberrypi ~/iot/lesson3 $ python3 address.py '40.74480675, -74.025328260314'
+pi@raspberrypi ~/iot/lesson3 $ python3 system_info.py
+Run socket server from a Terminal, and run socket client from another Terminal of the same Raspberry Pi or a different one on the same subnetwork
+pi@raspberrypi ~/iot/lesson3 $ python3 socket_server.py
+pi@raspberrypi ~/iot/lesson3 $ python3 socket_client.py '155.246.x.x'
+
