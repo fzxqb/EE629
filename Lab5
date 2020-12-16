@@ -1,0 +1,5 @@
+Install Docker and Autobahn|Python
+Start crossbar.io router on Terminal 1
+Run crossbar.io publish client on Terminal 2
+Run crossbar.io subscribe client on Terminal 3
+Stop crossbar.io router on Terminal 1
