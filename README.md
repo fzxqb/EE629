@@ -1,7 +1,7 @@
 # Face Recognition
 
 Equipment required for the project
-Raspberry Pi 
+Raspberry Pi; 
 Raspberry Pi camera module (PiCam)
 
 
