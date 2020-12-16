@@ -1,0 +1,13 @@
+Install Python packages on laptop or Raspberry Pi
+numpy, scipy, matplotlib, pandas, scikit-learn, tensorflow, keras
+Go to ~/iot, run git pull, and run the following examples in ~/iot/lesson8
+ticklabels_demo_rotation.py
+legend_demo.py
+histogram_demo_features.py, histogram_demo_extended.py
+boxplot_demo.py
+linreg.py, interpolation.py
+plot_lda.py, plot_lda_qda.py
+plot_cv_predict.py, plot_cv_diabetes.py
+keras_diabetes.py
+Copy train.csv, test.csv, titanic_1.py, and titanic_2.py to ~/demo
+Run both and view predictions at result.csv and result2.csv
